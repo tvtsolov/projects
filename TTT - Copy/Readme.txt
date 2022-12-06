@@ -1,4 +1,5 @@
-Tic Tac Toe game which I created while taking the Codecademy course online. 
+
+Tic Tac Toe in C++ game which I created while taking the Codecademy course online. 
 
 I made most of the code myself but with the basic knowledge I had I had to get some ideas from the codecademy's solution. What I didn't know was that it can work with functions that
 are not using parameters, which surprised me. 
